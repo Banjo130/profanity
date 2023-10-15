@@ -20,7 +20,7 @@
 * Update profanity.doap (new XEPs and latest version). Look for `DEV` which marks what is done on the development branch.
 * Add new release to profanity.doap
 
-## Creating artefacts
+## Creating artifacts
 * Set the correct release version in configure.ac:
 
 ```
@@ -73,7 +73,7 @@ PACKAGE_STATUS="development"
 * Push
 
 ## Updating website
-  * Make changes to the git repo including uploading the new artefacts at:
+  * Make changes to the git repo including uploading the new artifacts at:
         https://github.com/profanity-im/profanity-im.github.io
   * Add .xz and .zip tarballs to `tarballs` directory
   * Copy `guide/latest` to `guide/newversion`
